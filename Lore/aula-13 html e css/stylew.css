@@ -1,0 +1,56 @@
+body {
+    background-color: #f3edd6;
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: monospace;
+    text-align: center;
+    color: #1d1d1b;
+
+}
+
+form {
+    font-family: 'Trebuchet MS';
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: #0d538d;
+}
+
+#botao {
+    font-family: "";
+    color:#ffffff;
+    background-color: #0d538d;
+}
+
+input {
+    background-color: #f2cf64;
+    border-radius: 5px;
+    border: 1px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    background-color: #ffffff;
+    color: #1d1d1b;
+}
+
+thead {
+    background-color: #f2cf64;
+}
+
+td,
+th {
+    border: 1px solid #1c1c1a;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
